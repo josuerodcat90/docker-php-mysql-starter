@@ -7,3 +7,6 @@
 
 # composer vendor files
 vendor/
+
+# webs and PHP apps folder
+www/*
